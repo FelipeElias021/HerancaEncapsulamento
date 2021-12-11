@@ -1,0 +1,15 @@
+C:\Users\femou\Documents\2021\c#-udemy\HerancaEncapsulamento\TaxPay\TaxPay\bin\Debug\net6.0\TaxPay.exe
+C:\Users\femou\Documents\2021\c#-udemy\HerancaEncapsulamento\TaxPay\TaxPay\bin\Debug\net6.0\TaxPay.deps.json
+C:\Users\femou\Documents\2021\c#-udemy\HerancaEncapsulamento\TaxPay\TaxPay\bin\Debug\net6.0\TaxPay.runtimeconfig.json
+C:\Users\femou\Documents\2021\c#-udemy\HerancaEncapsulamento\TaxPay\TaxPay\bin\Debug\net6.0\TaxPay.dll
+C:\Users\femou\Documents\2021\c#-udemy\HerancaEncapsulamento\TaxPay\TaxPay\bin\Debug\net6.0\ref\TaxPay.dll
+C:\Users\femou\Documents\2021\c#-udemy\HerancaEncapsulamento\TaxPay\TaxPay\bin\Debug\net6.0\TaxPay.pdb
+C:\Users\femou\Documents\2021\c#-udemy\HerancaEncapsulamento\TaxPay\TaxPay\obj\Debug\net6.0\TaxPay.csproj.AssemblyReference.cache
+C:\Users\femou\Documents\2021\c#-udemy\HerancaEncapsulamento\TaxPay\TaxPay\obj\Debug\net6.0\TaxPay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\femou\Documents\2021\c#-udemy\HerancaEncapsulamento\TaxPay\TaxPay\obj\Debug\net6.0\TaxPay.AssemblyInfoInputs.cache
+C:\Users\femou\Documents\2021\c#-udemy\HerancaEncapsulamento\TaxPay\TaxPay\obj\Debug\net6.0\TaxPay.AssemblyInfo.cs
+C:\Users\femou\Documents\2021\c#-udemy\HerancaEncapsulamento\TaxPay\TaxPay\obj\Debug\net6.0\TaxPay.csproj.CoreCompileInputs.cache
+C:\Users\femou\Documents\2021\c#-udemy\HerancaEncapsulamento\TaxPay\TaxPay\obj\Debug\net6.0\TaxPay.dll
+C:\Users\femou\Documents\2021\c#-udemy\HerancaEncapsulamento\TaxPay\TaxPay\obj\Debug\net6.0\ref\TaxPay.dll
+C:\Users\femou\Documents\2021\c#-udemy\HerancaEncapsulamento\TaxPay\TaxPay\obj\Debug\net6.0\TaxPay.pdb
+C:\Users\femou\Documents\2021\c#-udemy\HerancaEncapsulamento\TaxPay\TaxPay\obj\Debug\net6.0\TaxPay.genruntimeconfig.cache

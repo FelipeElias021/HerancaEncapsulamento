@@ -1,0 +1,15 @@
+C:\Users\femou\Documents\2021\c#-udemy\Composition_ex\InheritanceAndEncapsulation\InheritanceAndEncapsulation\bin\Debug\net6.0\InheritanceAndEncapsulation.exe
+C:\Users\femou\Documents\2021\c#-udemy\Composition_ex\InheritanceAndEncapsulation\InheritanceAndEncapsulation\bin\Debug\net6.0\InheritanceAndEncapsulation.deps.json
+C:\Users\femou\Documents\2021\c#-udemy\Composition_ex\InheritanceAndEncapsulation\InheritanceAndEncapsulation\bin\Debug\net6.0\InheritanceAndEncapsulation.runtimeconfig.json
+C:\Users\femou\Documents\2021\c#-udemy\Composition_ex\InheritanceAndEncapsulation\InheritanceAndEncapsulation\bin\Debug\net6.0\InheritanceAndEncapsulation.dll
+C:\Users\femou\Documents\2021\c#-udemy\Composition_ex\InheritanceAndEncapsulation\InheritanceAndEncapsulation\bin\Debug\net6.0\ref\InheritanceAndEncapsulation.dll
+C:\Users\femou\Documents\2021\c#-udemy\Composition_ex\InheritanceAndEncapsulation\InheritanceAndEncapsulation\bin\Debug\net6.0\InheritanceAndEncapsulation.pdb
+C:\Users\femou\Documents\2021\c#-udemy\Composition_ex\InheritanceAndEncapsulation\InheritanceAndEncapsulation\obj\Debug\net6.0\InheritanceAndEncapsulation.csproj.AssemblyReference.cache
+C:\Users\femou\Documents\2021\c#-udemy\Composition_ex\InheritanceAndEncapsulation\InheritanceAndEncapsulation\obj\Debug\net6.0\InheritanceAndEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\femou\Documents\2021\c#-udemy\Composition_ex\InheritanceAndEncapsulation\InheritanceAndEncapsulation\obj\Debug\net6.0\InheritanceAndEncapsulation.AssemblyInfoInputs.cache
+C:\Users\femou\Documents\2021\c#-udemy\Composition_ex\InheritanceAndEncapsulation\InheritanceAndEncapsulation\obj\Debug\net6.0\InheritanceAndEncapsulation.AssemblyInfo.cs
+C:\Users\femou\Documents\2021\c#-udemy\Composition_ex\InheritanceAndEncapsulation\InheritanceAndEncapsulation\obj\Debug\net6.0\InheritanceAndEncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\femou\Documents\2021\c#-udemy\Composition_ex\InheritanceAndEncapsulation\InheritanceAndEncapsulation\obj\Debug\net6.0\InheritanceAndEncapsulation.dll
+C:\Users\femou\Documents\2021\c#-udemy\Composition_ex\InheritanceAndEncapsulation\InheritanceAndEncapsulation\obj\Debug\net6.0\ref\InheritanceAndEncapsulation.dll
+C:\Users\femou\Documents\2021\c#-udemy\Composition_ex\InheritanceAndEncapsulation\InheritanceAndEncapsulation\obj\Debug\net6.0\InheritanceAndEncapsulation.pdb
+C:\Users\femou\Documents\2021\c#-udemy\Composition_ex\InheritanceAndEncapsulation\InheritanceAndEncapsulation\obj\Debug\net6.0\InheritanceAndEncapsulation.genruntimeconfig.cache
